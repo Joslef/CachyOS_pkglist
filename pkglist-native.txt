@@ -65,7 +65,6 @@ ghostty
 git
 github-cli
 glances
-glow
 gnome-disk-utility
 gparted
 gst-libav
