@@ -170,6 +170,7 @@ steam
 sudo
 swaync
 sysfsutils
+telegram-desktop
 texinfo
 ttf-bitstream-vera
 ttf-dejavu
