@@ -163,6 +163,7 @@ sddm
 sg3_utils
 smartmontools
 snapper
+socat
 sof-firmware
 spotify-player
 steam
