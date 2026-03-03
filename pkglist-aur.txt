@@ -1,3 +1,5 @@
 raindrop
 rofi-bluetooth-git
+sddm-sugar-candy-git
+where-is-my-sddm-theme-git
 zen-twilight-bin

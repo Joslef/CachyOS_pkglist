@@ -153,6 +153,9 @@ pv
 python
 python-defusedxml
 python-packaging
+qt5-graphicaleffects
+qt5-quickcontrols2
+qt5-svg
 rebuild-detector
 reflector
 ripgrep
