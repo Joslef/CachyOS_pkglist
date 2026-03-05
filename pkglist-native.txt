@@ -181,6 +181,7 @@ ttf-liberation
 ttf-meslo-nerd
 ttf-opensans
 ufw
+unrar
 unzip
 upower
 usb_modeswitch
