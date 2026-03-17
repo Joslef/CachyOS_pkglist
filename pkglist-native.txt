@@ -81,6 +81,7 @@ hyprland
 hyprlock
 hyprpaper
 hyprshot
+imv
 inetutils
 iptables-nft
 iwd
