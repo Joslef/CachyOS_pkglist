@@ -184,6 +184,7 @@ telegram-desktop
 texinfo
 ttf-bitstream-vera
 ttf-dejavu
+ttf-jetbrains-mono-nerd
 ttf-liberation
 ttf-meslo-nerd
 ttf-opensans
