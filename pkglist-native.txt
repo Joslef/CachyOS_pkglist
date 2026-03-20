@@ -5,6 +5,7 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 amd-ucode
+ark
 awesome-terminal-fonts
 base
 base-devel
@@ -84,6 +85,9 @@ hyprpaper
 hyprshot
 imv
 inetutils
+intel-media-driver
+intel-media-sdk
+intel-ucode
 iptables-nft
 iwd
 jfsutils
@@ -92,6 +96,7 @@ lazygit
 less
 lib32-mesa
 lib32-opencl-mesa
+lib32-vulkan-intel
 lib32-vulkan-radeon
 libdvdcss
 libgsf
@@ -174,6 +179,7 @@ smartmontools
 snapper
 socat
 sof-firmware
+solaar
 spotify-player
 steam
 sudo
@@ -197,11 +203,11 @@ usbutils
 uwsm
 vim
 vlc-plugins-all
+vulkan-intel
 vulkan-radeon
 waybar
 wget
 which
-wireless-regdb
 wireplumber
 wl-clipboard
 wofi
