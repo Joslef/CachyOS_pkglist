@@ -2,6 +2,7 @@ catppuccin-sddm-theme-mocha
 raindrop
 rofi-bluetooth-git
 sddm-sugar-candy-git
+thorium-browser-bin
 where-is-my-sddm-theme-git
 wl-gammarelay-rs
 zen-twilight-bin
