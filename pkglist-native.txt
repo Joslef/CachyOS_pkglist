@@ -43,6 +43,7 @@ cantarell-fonts
 chezmoi
 chwd
 cliphist
+cmatrix
 cpupower
 cryptsetup
 device-mapper
@@ -210,7 +211,6 @@ vulkan-radeon
 waybar
 wget
 which
-wireless-regdb
 wireplumber
 wl-clipboard
 wofi

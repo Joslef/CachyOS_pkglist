@@ -1,4 +1,5 @@
 catppuccin-sddm-theme-mocha
+quickshell-overview-git
 raindrop
 rofi-bluetooth-git
 sddm-sugar-candy-git
