@@ -103,6 +103,7 @@ lib32-vulkan-radeon
 libdvdcss
 libgsf
 libopenraw
+libratbag
 limine
 limine-mkinitcpio-hook
 limine-snapper-sync
@@ -173,7 +174,6 @@ rebuild-detector
 reflector
 ripgrep
 rofi
-rofi-rbw
 rofimoji
 rsync
 s-nail
@@ -211,7 +211,6 @@ vulkan-radeon
 waybar
 wget
 which
-wireless-regdb
 wireplumber
 wl-clipboard
 wofi
