@@ -183,7 +183,6 @@ smartmontools
 snapper
 socat
 sof-firmware
-solaar
 spotify-player
 steam
 sudo
