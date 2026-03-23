@@ -173,6 +173,7 @@ rebuild-detector
 reflector
 ripgrep
 rofi
+rofi-rbw
 rofimoji
 rsync
 s-nail
