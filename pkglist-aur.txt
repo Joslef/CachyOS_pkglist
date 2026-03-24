@@ -1,4 +1,5 @@
 catppuccin-sddm-theme-mocha
+logiops-git
 metropolis
 quickshell-overview-git
 raindrop
