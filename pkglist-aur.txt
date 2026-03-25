@@ -1,5 +1,6 @@
 catppuccin-sddm-theme-mocha
 logiops-git
+lotion
 metropolis
 quickshell-overview-git
 raindrop
