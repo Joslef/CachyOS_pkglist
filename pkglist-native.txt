@@ -214,7 +214,6 @@ vulkan-radeon
 waybar
 wget
 which
-wireless-regdb
 wireplumber
 wl-clipboard
 wofi
