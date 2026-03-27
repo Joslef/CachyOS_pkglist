@@ -185,6 +185,7 @@ smartmontools
 snapper
 socat
 sof-firmware
+speedtest++
 spotify-player
 steam
 sudo
