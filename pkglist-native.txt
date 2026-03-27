@@ -42,7 +42,6 @@ cachyos-zsh-config
 cantarell-fonts
 chezmoi
 chwd
-cliphist
 cmatrix
 cpupower
 cryptsetup
@@ -186,7 +185,6 @@ smartmontools
 snapper
 socat
 sof-firmware
-solaar
 spotify-player
 steam
 sudo

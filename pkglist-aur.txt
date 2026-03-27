@@ -1,6 +1,6 @@
 catppuccin-sddm-theme-mocha
+clipse-wayland-bin
 logiops-git
-lotion
 metropolis
 quickshell-overview-git
 raindrop
