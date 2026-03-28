@@ -1,3 +1,4 @@
+bibata-cursor-git
 catppuccin-sddm-theme-mocha
 clipse-wayland-bin
 logiops-git
