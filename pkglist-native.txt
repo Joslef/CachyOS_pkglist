@@ -42,6 +42,7 @@ cachyos-zsh-config
 cantarell-fonts
 chezmoi
 chwd
+cliphist
 cmatrix
 cpupower
 cryptsetup
@@ -129,7 +130,6 @@ mpv-mpris
 mtools
 nano
 nano-syntax-highlighting
-ncspot
 neovim
 netctl
 networkmanager
@@ -149,7 +149,6 @@ opencode
 openssh
 os-prober
 otf-commit-mono-nerd
-ouch
 pacman-contrib
 paru
 pavucontrol
@@ -163,7 +162,6 @@ plymouth
 polkit-kde-agent
 poppler-glib
 power-profiles-daemon
-proton-vpn-cli
 pv
 python
 python-defusedxml
@@ -187,7 +185,7 @@ smartmontools
 snapper
 socat
 sof-firmware
-speedtest++
+solaar
 spotify-player
 steam
 sudo
@@ -216,6 +214,7 @@ vulkan-radeon
 waybar
 wget
 which
+wireless-regdb
 wireplumber
 wl-clipboard
 wofi
