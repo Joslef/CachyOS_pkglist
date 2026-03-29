@@ -163,6 +163,7 @@ plymouth
 polkit-kde-agent
 poppler-glib
 power-profiles-daemon
+proton-vpn-cli
 pv
 python
 python-defusedxml

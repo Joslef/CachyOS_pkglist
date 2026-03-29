@@ -1,6 +1,7 @@
 bibata-cursor-git
 catppuccin-sddm-theme-mocha
 clipse-wayland-bin
+cyberghostvpn
 logiops-git
 metropolis
 quickshell-overview-git
