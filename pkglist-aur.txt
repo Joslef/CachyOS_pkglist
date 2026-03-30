@@ -4,6 +4,7 @@ clipse-wayland-bin
 cyberghostvpn
 logiops-git
 metropolis
+proton-ge-custom-bin
 quickshell-overview-git
 raindrop
 rofi-bluetooth-git

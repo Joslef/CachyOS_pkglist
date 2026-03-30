@@ -149,6 +149,7 @@ opencode
 openssh
 os-prober
 otf-commit-mono-nerd
+ouch
 pacman-contrib
 paru
 pavucontrol
