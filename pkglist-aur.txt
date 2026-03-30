@@ -10,6 +10,7 @@ raindrop
 rofi-bluetooth-git
 sddm-sugar-candy-git
 thorium-browser-bin
+ttf-selawik
 where-is-my-sddm-theme-git
 wl-gammarelay-rs
 zen-twilight-bin
