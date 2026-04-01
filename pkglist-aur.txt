@@ -9,6 +9,7 @@ quickshell-overview-git
 raindrop
 rofi-bluetooth-git
 sddm-sugar-candy-git
+surge-bin
 thorium-browser-bin
 ttf-selawik
 where-is-my-sddm-theme-git
