@@ -106,6 +106,7 @@ libdvdcss
 libgsf
 libopenraw
 libratbag
+libva-utils
 limine
 limine-mkinitcpio-hook
 limine-snapper-sync
