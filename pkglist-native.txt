@@ -191,9 +191,11 @@ snapper
 socat
 sof-firmware
 solaar
+speedtest++
 spotify-player
 steam
 sudo
+sunshine
 swaync
 sysfsutils
 teams-for-linux
