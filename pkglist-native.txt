@@ -167,6 +167,7 @@ polkit-kde-agent
 poppler-glib
 power-profiles-daemon
 proton-vpn-cli
+protonup-qt
 pv
 python
 python-defusedxml
