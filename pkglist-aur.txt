@@ -10,6 +10,7 @@ quickshell-overview-git
 raindrop
 rofi-bluetooth-git
 sddm-sugar-candy-git
+sgdboop
 surge-bin
 thorium-browser-bin
 ttf-selawik
