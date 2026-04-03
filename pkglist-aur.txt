@@ -3,6 +3,7 @@ catppuccin-sddm-theme-mocha
 clipse-wayland-bin
 cyberghostvpn
 logiops-git
+ludusavi-bin
 metropolis
 proton-ge-custom-bin
 quickshell-overview-git
