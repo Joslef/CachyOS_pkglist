@@ -1,7 +1,6 @@
 bibata-cursor-git
 catppuccin-sddm-theme-mocha
 clipse-wayland-bin
-cyberghostvpn
 logiops-git
 ludusavi-bin
 metropolis
