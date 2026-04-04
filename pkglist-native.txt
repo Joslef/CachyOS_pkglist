@@ -173,7 +173,6 @@ pv
 python
 python-defusedxml
 python-packaging
-python-pipx
 qt5-graphicaleffects
 qt5-multimedia
 qt5-quickcontrols2
