@@ -131,6 +131,7 @@ modemmanager
 mpv
 mpv-mpris
 mtools
+mullvad-browser-bin
 nano
 nano-syntax-highlighting
 neovim
