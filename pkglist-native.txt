@@ -1,6 +1,5 @@
 7zip
 accountsservice
-alacritty
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -195,7 +194,6 @@ smartmontools
 snapper
 socat
 sof-firmware
-solaar
 speedtest++
 spotify-player
 steam
@@ -206,6 +204,7 @@ sysfsutils
 teams-for-linux
 telegram-desktop
 texinfo
+thunar
 ttf-bitstream-vera
 ttf-dejavu
 ttf-jetbrains-mono-nerd
