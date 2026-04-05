@@ -44,6 +44,7 @@ chwd
 cliphist
 cmatrix
 cpupower
+cronie
 cryptsetup
 device-mapper
 diffutils
@@ -77,6 +78,7 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
+gvfs
 hdparm
 hwdetect
 hwinfo
