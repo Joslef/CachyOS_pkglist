@@ -3,6 +3,7 @@ catppuccin-gtk-theme-mocha
 catppuccin-sddm-theme-mocha
 clipse-wayland-bin
 cyberghostvpn
+emulationstation-de
 logiops-git
 ludusavi-bin
 metropolis
