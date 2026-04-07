@@ -4,6 +4,7 @@ alsa-firmware
 alsa-plugins
 alsa-utils
 amd-ucode
+ares-emu
 ark
 audacity
 awesome-terminal-fonts
@@ -51,6 +52,7 @@ diffutils
 dmidecode
 dmraid
 dnsmasq
+dolphin-emu
 dosfstools
 duf
 e2fsprogs
@@ -92,7 +94,7 @@ inetutils
 intel-media-driver
 intel-media-sdk
 intel-ucode
-iptables-nft
+iptables
 iwd
 jfsutils
 kitty
@@ -106,6 +108,8 @@ libdvdcss
 libgsf
 libopenraw
 libratbag
+libretro-beetle-supergrafx
+libretro-genesis-plus-gx
 libva-utils
 limine
 limine-mkinitcpio-hook
@@ -120,11 +124,13 @@ logrotate
 lsb-release
 lsscsi
 lvm2
+mame
 man-db
 man-pages
 mdadm
 meld
 mesa-utils
+mgba-qt
 micro
 mkinitcpio
 modemmanager
@@ -167,6 +173,7 @@ plymouth
 polkit-kde-agent
 poppler-glib
 power-profiles-daemon
+ppsspp
 proton-vpn-cli
 protonup-qt
 pv
@@ -182,12 +189,14 @@ qt5-svg
 rclone
 rebuild-detector
 reflector
+retroarch
 ripgrep
 rofi
 rofi-calc
 rofi-rbw
 rofimoji
 rsync
+ryujinx
 s-nail
 sddm
 sg3_utils
