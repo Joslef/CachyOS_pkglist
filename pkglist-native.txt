@@ -190,6 +190,7 @@ rclone
 rebuild-detector
 reflector
 retroarch
+retroarch-assets-ozone
 ripgrep
 rofi
 rofi-calc
