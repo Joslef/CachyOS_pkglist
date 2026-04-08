@@ -4,7 +4,6 @@ catppuccin-gtk-theme-mocha
 catppuccin-sddm-theme-mocha
 cemu-bin
 clipse-wayland-bin
-cyberghostvpn
 duckstation-preview-latest-bin
 eden-nightly-bin
 emulationstation-de
