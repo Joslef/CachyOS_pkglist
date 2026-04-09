@@ -112,6 +112,7 @@ libopenraw
 libratbag
 libretro-beetle-supergrafx
 libretro-genesis-plus-gx
+libretro-scummvm
 libva-utils
 limine
 limine-mkinitcpio-hook
