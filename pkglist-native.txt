@@ -111,7 +111,11 @@ libgsf
 libopenraw
 libratbag
 libretro-beetle-supergrafx
+libretro-flycast
 libretro-genesis-plus-gx
+libretro-mgba
+libretro-mupen64plus-next
+libretro-ppsspp
 libretro-scummvm
 libva-utils
 limine

@@ -9,6 +9,10 @@ eden-nightly-bin
 emulationstation-de
 ffmpeg7.1
 flycast-bin
+libretro-citra-git
+libretro-lrps2-git
+libretro-melondsds-bin
+libretro-swanstation-git
 logiops-git
 ludusavi-bin
 melonds-bin
