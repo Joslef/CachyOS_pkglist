@@ -13,8 +13,10 @@ libretro-citra-git
 libretro-lrps2-git
 libretro-melondsds-bin
 libretro-swanstation-git
+lime3ds-appimage
 logiops-git
 ludusavi-bin
+makerom-git
 melonds-bin
 mesen
 metropolis

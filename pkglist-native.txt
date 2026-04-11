@@ -47,6 +47,7 @@ cmatrix
 cpupower
 cronie
 cryptsetup
+ctrtool
 device-mapper
 diffutils
 dmidecode
