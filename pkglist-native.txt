@@ -182,6 +182,7 @@ poppler-glib
 power-profiles-daemon
 ppsspp
 proton-vpn-cli
+protontricks
 protonup-qt
 pv
 python
