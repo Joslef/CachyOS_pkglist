@@ -1,5 +1,6 @@
 azahar-appimage-wayland
 bibata-cursor-git
+brother-mfc-1910w
 catppuccin-gtk-theme-mocha
 catppuccin-sddm-theme-mocha
 cemu-bin
