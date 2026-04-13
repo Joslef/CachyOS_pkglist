@@ -1,0 +1,1 @@
+/home/joerg/ES-DE/emulators/citron/citron_nightly-4797110b0-linux-x86_64_v3.AppImage

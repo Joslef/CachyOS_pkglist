@@ -3,6 +3,7 @@ bibata-cursor-git
 catppuccin-gtk-theme-mocha
 catppuccin-sddm-theme-mocha
 cemu-bin
+cheese
 clipse-wayland-bin
 duckstation-preview-latest-bin
 eden-nightly-bin
