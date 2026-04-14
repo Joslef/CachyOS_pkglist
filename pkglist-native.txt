@@ -114,6 +114,7 @@ libgsf
 libopenraw
 libratbag
 libretro-beetle-supergrafx
+libretro-fbneo-git
 libretro-flycast
 libretro-genesis-plus-gx
 libretro-mgba
