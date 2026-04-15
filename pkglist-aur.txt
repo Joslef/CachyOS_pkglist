@@ -9,6 +9,7 @@ clipse-wayland-bin
 duckstation-preview-latest-bin
 eden-nightly-bin
 emulationstation-de
+ente-auth
 ffmpeg7.1
 flycast-bin
 libretro-citra-git

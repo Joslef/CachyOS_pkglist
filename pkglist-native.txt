@@ -60,7 +60,9 @@ duf
 e2fsprogs
 efibootmgr
 efitools
+enscript
 ethtool
+evince
 exfatprogs
 f2fs-tools
 fastfetch
