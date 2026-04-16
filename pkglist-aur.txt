@@ -1,3 +1,4 @@
+appimageupdate-git
 azahar-appimage-wayland
 bibata-cursor-git
 brother-mfc-1910w
