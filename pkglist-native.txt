@@ -52,6 +52,7 @@ ctrtool
 cups
 device-mapper
 diffutils
+digikam
 dmidecode
 dmraid
 dnsmasq
