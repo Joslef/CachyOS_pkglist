@@ -14,6 +14,7 @@ bash-completion
 bind
 bitwarden
 blueman
+bluetui
 bluez
 bluez-hid2hci
 bluez-libs
@@ -71,6 +72,7 @@ firefox
 fsarchiver
 gamescope
 gdu
+geeqie
 ghostscript
 ghostty
 git
@@ -177,6 +179,7 @@ pacman-contrib
 paru
 pavucontrol
 perl
+perl-image-exiftool
 pipewire-alsa
 pipewire-pulse
 pkgfile
