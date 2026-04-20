@@ -183,6 +183,7 @@ paru
 pavucontrol
 perl
 perl-image-exiftool
+picard
 pipewire-alsa
 pipewire-pulse
 pkgfile
