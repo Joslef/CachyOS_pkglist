@@ -11,6 +11,7 @@ duckstation-preview-latest-bin
 eden-nightly-bin
 emulationstation-de
 ente-auth
+feishin-bin
 ffmpeg7.1
 flycast-bin
 libretro-citra-git
