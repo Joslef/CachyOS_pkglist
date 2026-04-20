@@ -98,6 +98,7 @@ hyprland
 hyprlock
 hyprpaper
 hyprshot
+ifuse
 imv
 inetutils
 intel-media-driver
@@ -245,6 +246,7 @@ unrar
 unzip
 upower
 usb_modeswitch
+usbmuxd
 usbutils
 uwsm
 vim
