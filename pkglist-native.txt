@@ -107,6 +107,7 @@ intel-ucode
 iptables
 iwd
 jfsutils
+kid3
 kitty
 lazygit
 less
