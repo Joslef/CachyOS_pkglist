@@ -211,6 +211,7 @@ qt5-svg
 rclone
 rebuild-detector
 reflector
+restic
 retroarch
 retroarch-assets-ozone
 ripgrep
