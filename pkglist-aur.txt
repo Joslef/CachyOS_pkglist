@@ -39,4 +39,5 @@ thorium-browser-bin
 ttf-selawik
 where-is-my-sddm-theme-git
 wl-gammarelay-rs
+xremap-hypr-bin
 zen-twilight-bin
