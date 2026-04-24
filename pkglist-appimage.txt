@@ -1,3 +1,2 @@
 /home/joerg/Applications/NX Optimizer/NX Optimizer.AppImage
-/home/joerg/Downloads/NX.Optimizer.3.2.0.AppImage
 /home/joerg/ES-DE/emulators/citron/citron_nightly-4797110b0-linux-x86_64_v3.AppImage
