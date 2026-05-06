@@ -158,7 +158,6 @@ mtools
 mullvad-browser-bin
 nano
 nano-syntax-highlighting
-navidrome
 neovim
 netctl
 networkmanager
