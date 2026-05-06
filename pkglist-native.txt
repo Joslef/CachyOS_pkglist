@@ -234,6 +234,7 @@ sudo
 sunshine
 swaync
 sysfsutils
+tailscale
 teams-for-linux
 telegram-desktop
 texinfo
