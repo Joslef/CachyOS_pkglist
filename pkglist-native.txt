@@ -229,6 +229,7 @@ socat
 sof-firmware
 speedtest++
 spotify-player
+sshfs
 steam
 sudo
 sunshine
