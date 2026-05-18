@@ -42,6 +42,7 @@ cachyos-wallpapers
 cachyos-zsh-config
 cantarell-fonts
 chezmoi
+chromium
 chwd
 cliphist
 cmatrix
