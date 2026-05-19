@@ -2,6 +2,7 @@ appimageupdate-git
 azahar-appimage-wayland
 bibata-cursor-git
 brother-mfc-1910w
+brscan4
 brscan5
 catppuccin-gtk-theme-mocha
 catppuccin-sddm-theme-mocha

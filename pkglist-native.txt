@@ -83,6 +83,7 @@ glances
 glow
 gnome-disk-utility
 gparted
+gscan2pdf
 gst-libav
 gst-plugin-pipewire
 gst-plugin-va
