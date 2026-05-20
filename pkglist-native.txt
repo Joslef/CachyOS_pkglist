@@ -131,6 +131,7 @@ libretro-mupen64plus-next
 libretro-ppsspp
 libretro-scummvm
 libva-utils
+libvncserver
 limine
 limine-mkinitcpio-hook
 limine-snapper-sync
@@ -212,6 +213,7 @@ qt5-svg
 rclone
 rebuild-detector
 reflector
+remmina
 restic
 retroarch
 retroarch-assets-ozone
