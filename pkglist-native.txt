@@ -225,6 +225,7 @@ ryujinx
 s-nail
 sddm
 sg3_utils
+simple-scan
 smartmontools
 snapper
 socat
