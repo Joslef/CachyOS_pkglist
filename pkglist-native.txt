@@ -6,6 +6,7 @@ alsa-utils
 amd-ucode
 ares-emu
 ark
+arp-scan
 audacity
 awesome-terminal-fonts
 base
@@ -167,6 +168,7 @@ networkmanager
 networkmanager-openvpn
 nfs-utils
 nilfs-utils
+nmap
 nodejs
 noto-fonts
 noto-fonts-cjk
