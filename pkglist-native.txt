@@ -166,6 +166,7 @@ neovim
 netctl
 networkmanager
 networkmanager-openvpn
+newsflash
 nfs-utils
 nilfs-utils
 nmap
