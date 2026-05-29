@@ -282,6 +282,7 @@ xfsprogs
 xl2tpd
 xone-dkms
 xorg-xwayland
+xournalpp
 xpadneo-dkms
 yay
 yazi
