@@ -38,6 +38,7 @@ sddm-sugar-candy-git
 sgdboop
 snapper-rollback
 surge-bin
+teamviewer
 thorium-browser-bin
 ttf-selawik
 where-is-my-sddm-theme-git
