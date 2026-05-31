@@ -52,6 +52,7 @@ cronie
 cryptsetup
 ctrtool
 cups
+cups-pdf
 device-mapper
 diffutils
 digikam
@@ -243,6 +244,7 @@ sudo
 sunshine
 swaync
 sysfsutils
+system-config-printer
 tailscale
 teams-for-linux
 telegram-desktop

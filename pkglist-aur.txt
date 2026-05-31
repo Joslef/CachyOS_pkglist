@@ -1,6 +1,7 @@
 appimageupdate-git
 azahar-appimage-wayland
 bibata-cursor-git
+brlaser
 brother-mfc-1910w
 brscan4
 brscan5
