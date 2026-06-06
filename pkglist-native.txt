@@ -110,6 +110,7 @@ intel-media-sdk
 intel-ucode
 iptables
 iwd
+jack2
 jfsutils
 kid3
 kitty
@@ -226,6 +227,7 @@ rofi
 rofi-calc
 rofi-rbw
 rofimoji
+rssguard
 rsync
 ryujinx
 s-nail
