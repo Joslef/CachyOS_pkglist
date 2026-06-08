@@ -10,6 +10,7 @@ catppuccin-sddm-theme-mocha
 cemu-bin
 cheese
 clipse-wayland-bin
+cyberghostvpn
 duckstation-preview-latest-bin
 eden-nightly-bin
 emulationstation-de

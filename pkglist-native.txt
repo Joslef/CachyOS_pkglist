@@ -1,5 +1,6 @@
 7zip
 accountsservice
+alacritty
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -59,6 +60,7 @@ digikam
 dmidecode
 dmraid
 dnsmasq
+dolphin
 dolphin-emu
 dosfstools
 duf
@@ -135,6 +137,7 @@ libretro-ppsspp
 libretro-scummvm
 libva-utils
 libvncserver
+liferea
 limine
 limine-mkinitcpio-hook
 limine-snapper-sync
@@ -158,12 +161,15 @@ mgba-qt
 micro
 mkinitcpio
 modemmanager
+moonlight-qt
 mpv
 mpv-mpris
 mtools
 mullvad-browser-bin
 nano
 nano-syntax-highlighting
+navidrome
+ncspot
 neovim
 netctl
 networkmanager
@@ -238,6 +244,7 @@ smartmontools
 snapper
 socat
 sof-firmware
+solaar
 speedtest++
 spotify-player
 sshfs
@@ -273,9 +280,9 @@ vulkan-radeon
 waybar
 wget
 which
-wireless-regdb
 wireplumber
 wl-clipboard
+wlopm
 wofi
 wpa_supplicant
 wtype
