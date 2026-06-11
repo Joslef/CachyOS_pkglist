@@ -226,6 +226,7 @@ rofi
 rofi-calc
 rofi-rbw
 rofimoji
+rssguard
 rsync
 ryujinx
 s-nail
